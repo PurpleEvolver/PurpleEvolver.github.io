@@ -1,0 +1,15 @@
+/* Оформление прааграфов */
+#page {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.strong-red {
+    font-weight: bold;
+    color: dodgerblue;
+}
+
+.light-blue {
+    font-weight: bold;
+    color:aqua;
+}
